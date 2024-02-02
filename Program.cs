@@ -15,6 +15,7 @@ namespace BE_U1_W1_D5
             {
                 Registrazione(); // Registrazione del contribuente
             }
+
             else // Messaggio di uscita
             {
                 Console.WriteLine("\nArrivederci, premi un tasto per chiudere lo sportello.");
