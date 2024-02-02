@@ -41,6 +41,7 @@ namespace BE_U1_W1_D5
                     Console.WriteLine("Reddito annuale non inserito. Riprova ad inserire");
                     Console.WriteLine("il tuo reddito annuale per effettuare il calcolo.");
                     break;
+
             }
             return RedditoAnnualeNetto = RedditoAnnuale - Imposta;
         }
